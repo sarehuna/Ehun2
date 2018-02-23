@@ -25,14 +25,12 @@ Cara Menjalankan Bot Kembali :
 - `cd AlphatTJ`
 - `npm start`
 
-Credit By@ Nadya Sutjiadi.
+Credit By@ Ehun.
 ------
-- `Follow My Instagram : nadya.tjia`
-- `Add My ID LINE : nad_nad. (pake titik)`
+- `Add My ID LINE : sarehun (pake titik)`
 
 Thx To :
 ------
-- `Alfatdirk`
 
 
 
