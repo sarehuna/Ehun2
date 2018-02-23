@@ -4,9 +4,9 @@ console.info("\n\
 =========================================\n\
 BotName: LINE Alphat JS\n\
 Version: TJ VERSION\n\
-Thanks to @Alfathdirk @TCR_TEAM\n\
+Thanks to @Sarehun @TCR_TEAM\n\
 =========================================\n\
-\nNOTE : This bot is made by @Alfathdirk @TCR_TEAM !");
+\nNOTE : This bot is made by @Sarehun @TCR_TEAM !");
 
 /*
 | This constant is for auth/login
